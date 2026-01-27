@@ -4,14 +4,13 @@
 **Date:** January 14, 2026  
 **Version:** 1.0.0
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18262412.svg)](https://doi.org/10.5281/zenodo.18262412)
+
 ## 🎯 Priority Claim & Publication Notice
 
 **This repository establishes priority for the concept of using discrete emotional tokens as transferable policy primitives in artificial general intelligence (AGI).** Initial conception and formalization completed January 14, 2026.
 
 **Keywords for academic search and citation:** emotional intelligence AI, transferable reinforcement learning, hierarchical RL, discrete action primitives, emotion-based planning, MCTS with emotions, continuous control transfer learning, meta-learning through emotions, AGI architecture, policy primitives, computational neuroscience AI, affective computing reinforcement learning, strategic reasoning transfer, domain-independent RL, universal policy learning
-<img width="4170" height="5388" alt="emotion_ai_infographic" src="https://github.com/user-attachments/assets/3cd01622-84a8-4ff4-8c69-b00bc52e50fd" />
 
 ---
 
@@ -82,7 +81,8 @@ With continuous actions and horizon 5: **∞^5 nodes (intractable)**
 
 ## 📊 Visual Overview
 
-![Emotion AI Architecture Infographic](emotion_ai_infographic.png)
+<img width="4170" height="5388" alt="emotion_ai_infographic" src="https://github.com/user-attachments/assets/9ce52a56-21d8-4f34-bc2f-a4cfaf8ca882" />
+
 
 *The complete architecture showing how discrete emotional tokens enable transfer learning across domains while maintaining computational tractability for strategic planning.*
 
@@ -340,13 +340,14 @@ With |E| = 8 and h = 5: 8^5 = 32,768 nodes (tractable)
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{akahoshi2026emotions,
+@misc{akahoshi2026emotions,
   title={Emotions as Transferable Policy Primitives for General Intelligence},
   author={Akahoshi, Ryuku},
-  journal={arXiv preprint},
   year={2026},
   month={January},
-  note={Priority established January 14, 2026}
+  howpublished={Zenodo},
+  note={Priority established January 14, 2026},
+  doi={10.5281/zenodo.18262412}
 }
 ```
 
@@ -390,12 +391,6 @@ Please open an issue or submit a pull request with your contributions.
 Email: r.l.akahoshi@gmail.com
 
 For academic collaboration, implementation questions, or discussion of ideas, please reach out.
-
----
-
-## 📜 License
-
-This work is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
